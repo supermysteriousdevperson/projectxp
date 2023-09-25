@@ -1,11 +1,7 @@
-You go down to the pickup station,
-	craving warmth and beauty;
-You settle for less than fascination --
-	a few drinks later you're not so choosy.
-And the closing lights strip off the shadows
-	on this strange new flesh you've found --
-Clutching the night to you like a fig leaf
-	you hurry to the blackness
-	and the blankets to lay down an impression
-	and your loneliness.
-		-- Joni Mitchell
+The work [of software development] is becoming far easier (i.e. the tools
+we're using work at a higher level, more removed from machine, peripheral
+and operating system imperatives) than it was twenty years ago, and because
+of this, knowledge of the internals of a system may become less accessible.
+We may be able to dig deeper holes, but unless we know how to build taller
+ladders, we had best hope that it does not rain much.
+		-- Paul Licker
